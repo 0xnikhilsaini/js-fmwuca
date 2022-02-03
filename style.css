@@ -1,0 +1,30 @@
+h1,
+h2 {
+  font-family: Lato;
+}
+.modal-content {
+  width: 300px;
+  height: 400px;
+}
+
+#connect-ledger {
+  width: 17rem;
+  height: 9rem;
+  background-color: white;
+  border: none;
+}
+
+#connect-ledger:hover {
+  background-color: #edeff3;
+}
+
+.modal-body {
+  background-color: #f7f9fd;
+}
+
+#url,
+.url {
+  text-align: center;
+  margin-top: 160px;
+  color: green;
+}

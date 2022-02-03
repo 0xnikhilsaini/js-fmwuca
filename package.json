@@ -1,0 +1,10 @@
+{
+  "name": "js",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "@ledgerhq/hw-app-eth": "^6.24.0",
+    "@ledgerhq/hw-transport-webhid": "^6.20.0",
+    "ethers": "^5.5.4"
+  }
+}
